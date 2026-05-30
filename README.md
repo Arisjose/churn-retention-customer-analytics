@@ -1,9 +1,5 @@
 # 📊 E-Commerce Customer Churn & Retention Analytics Dashboard
 
-[![Power BI](https://shields.io)](https://microsoft.com)
-[![Kaggle](https://shields.io)](https://kaggle.com)
-[![Python](https://shields.io)](https://python.org)
-[![DAX](https://shields.io)](https://microsoft.com)
 
 ## 📝 Descripción del Proyecto
 Este proyecto resuelve un problema crítico de negocio: la pérdida de clientes (**Customer Churn**) y la optimización del valor del cliente en el tiempo (**Customer Lifetime Value - CLV**). 
